@@ -1,0 +1,17 @@
+.eric6project/
+.ropeproject/
+.directory/
+*.pyc
+*.pyo
+*.orig
+*.bak
+*.rej
+*~
+cur/
+tmp/
+__pycache__/
+*.DS_Store
+weather_data.json
+weather_data.txt
+*.ep4
+config.json
