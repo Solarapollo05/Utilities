@@ -1,5 +1,4 @@
 import json
-from unittest import result
 valid_mode = False
 
 def text_to_hex(string):
